@@ -1,1 +1,1 @@
-# Duc_and_CTF
+# Đây là chỗ để Duc upload những write-up giải các Challenge CTF mà Duc từng làm. Đơn giản đây là 1 cuốn nhật ký thôi, rất vinh hạnh nếu nó giúp bạn gì đó, còn nếu thấy phiền thì xin mời đi chỗ khác ạ :3
